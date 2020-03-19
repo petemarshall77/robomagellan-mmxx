@@ -1,0 +1,7 @@
+RC Car Wiring
+=============
+
+RC Controller		What?    	Arduino Pin
+=============           =====           ===========
+Ch. 1			Steering	2
+Ch. 2			Power		3
